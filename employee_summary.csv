@@ -1,0 +1,6 @@
+emp_id,name,dept_id,salary,department,salary_category
+1,Ali,101,55000.0,HR,Low
+2,Sara,102,72000.0,Finance,Medium
+3,John,101,91000.0,HR,High
+4,Emma,103,65000.0,IT,Medium
+5,David,102,,Finance,
